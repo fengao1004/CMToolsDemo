@@ -1,11 +1,11 @@
 [
     {
-        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\actionsheet_bottom_normal.9.png",
-        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\actionsheet_bottom_normal.9.png"
-    },
-    {
         "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\shibia.jpg",
         "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\shibia.jpg"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\actionsheet_bottom_normal.9.png",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\actionsheet_bottom_normal.9.png"
     },
     {
         "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\actionsheet_middle_normal.9.png",
@@ -64,12 +64,12 @@
         "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\actionsheet_single_normal.9.png"
     },
     {
-        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\streamapp_icon_appdefault.png",
-        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\streamapp_icon_appdefault.png"
-    },
-    {
         "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\start.png",
         "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\start.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\streamapp_icon_appdefault.png",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\streamapp_icon_appdefault.png"
     },
     {
         "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\actionsheet_single_pressed.9.png",

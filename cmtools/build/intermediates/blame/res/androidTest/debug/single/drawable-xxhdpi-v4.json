@@ -40,12 +40,12 @@
         "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\shap_complete_y.xml"
     },
     {
-        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\error.png",
-        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\error.png"
-    },
-    {
         "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\right_down_angle.png",
         "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\right_down_angle.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\error.png",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\error.png"
     },
     {
         "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\shapebgdia_add.xml",

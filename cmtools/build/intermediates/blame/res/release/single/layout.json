@@ -224,12 +224,12 @@
         "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\layout\\media_edit_controller.xml"
     },
     {
-        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\layout\\snow_white_progress.xml",
-        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\layout\\snow_white_progress.xml"
-    },
-    {
         "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\layout\\snow_white_progress.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\layout\\snow_white_progress.xml"
     },
     {
         "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",

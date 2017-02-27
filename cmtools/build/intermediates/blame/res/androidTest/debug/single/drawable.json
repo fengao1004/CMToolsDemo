@@ -100,12 +100,12 @@
         "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable\\dcloud_dialog_shape.xml"
     },
     {
-        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\media_pre_loading.png",
-        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable\\media_pre_loading.png"
-    },
-    {
         "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\shape_point_white.xml",
         "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable\\shape_point_white.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\media_pre_loading.png",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable\\media_pre_loading.png"
     },
     {
         "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\image_pick_title_sel.xml",

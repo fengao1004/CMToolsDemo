@@ -99,6 +99,7 @@ public class SDK_WebApp extends Activity {
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_HARDWARE_ACCELERATED, WindowManager.LayoutParams.FLAG_HARDWARE_ACCELERATED);
         Intent intent = getIntent();
         webAppUrl = intent.getStringExtra("url");
+        Log.i(TAG, "onCreate: "+webAppUrl);
         if (mEntryProxy == null) {
             View view = View.inflate(getApplicationContext(), R.layout.actuvity_procress, null);
             f = (FrameLayout) view.findViewById(R.id.fl_content);
@@ -335,8 +336,9 @@ class WebappMode implements ICoreStatusListener, IOnCreateSplashView {
         String args = "";
         // 创建默认webapp，赋值appid
         String appBasePath = "/apps/DYAppPortal";// 表示
+        Log.i(TAG, "onCoreInitEnd: "+SDK_WebApp.webAppUrl);
         if (SDK_WebApp.webAppUrl != null && !SDK_WebApp.webAppUrl.equals("")) {
-            args = "{url:'" + SDK_WebApp.webAppUrl + "'}";// 设置启动参数
+            args = "{\"url\":\"" + SDK_WebApp.webAppUrl + "\"}";// 设置启动参数
         }
         //String path = "file:///"+ Environment.getExternalStorageDirectory().getAbsolutePath()+"/com.dayang.tools/DYCMTools";
         app = SDK.startWebApp(activity, appBasePath, args,

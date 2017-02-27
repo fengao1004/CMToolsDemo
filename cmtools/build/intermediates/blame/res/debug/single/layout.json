@@ -116,12 +116,12 @@
         "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\layout\\myprogress.xml"
     },
     {
-        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\debug\\layout\\media_controller.xml",
-        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\layout\\media_controller.xml"
-    },
-    {
         "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
         "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\debug\\layout\\media_controller.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\layout\\media_controller.xml"
     },
     {
         "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choose_file_type.xml",

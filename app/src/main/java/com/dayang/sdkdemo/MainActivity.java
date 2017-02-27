@@ -13,12 +13,12 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Intent intent = new Intent(MainActivity.this, SDK_WebApp.class);
-        intent.putExtra("url","http://192.168.20.68:8080/baoliao-mui/index.html");//大洋内部测试环境
+        final Intent intent = new Intent(MainActivity.this, SDK_WebApp.class);
+        intent.putExtra("url", "http://192.168.20.68:8080/baoliao-mui/index.html");//大洋内部测试环境
         findViewById(R.id.button).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this, SDK_WebApp.class));
+                startActivity(intent);
             }
         });
     }

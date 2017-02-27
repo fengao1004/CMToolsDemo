@@ -72,12 +72,12 @@
         "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable-xhdpi\\as_bg_ios6.9.png"
     },
     {
-        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\push.png",
-        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable-xhdpi\\push.png"
-    },
-    {
         "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionsheet_top_pressed.9.png",
         "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable-xhdpi\\actionsheet_top_pressed.9.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\push.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable-xhdpi\\push.png"
     },
     {
         "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\actionsheet_single_normal.9.png",

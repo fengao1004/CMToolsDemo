@@ -172,12 +172,12 @@
         "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\next_selector.xml"
     },
     {
-        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\save_endtime_press.png",
-        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\save_endtime_press.png"
-    },
-    {
         "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\ic_launcher.png",
         "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\save_endtime_press.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\save_endtime_press.png"
     },
     {
         "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
