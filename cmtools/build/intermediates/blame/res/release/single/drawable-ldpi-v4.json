@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\push.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable-ldpi\\push.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\splash.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable-ldpi\\splash.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\icon.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\product_loading.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable-ldpi\\product_loading.png"
+    }
+]

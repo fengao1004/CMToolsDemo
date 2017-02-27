@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\wap_prev.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\wap_prev.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\shap_workback.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\shap_workback.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\shape_point_black.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\shape_point_black.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\ic_media_play.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\ic_media_play.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\shape_progresslist_item.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\shape_progresslist_item.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\pause2.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\pause2.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\progressbar_drawable.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\progressbar_drawable.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\play2.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\play2.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\stop_select.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\stop_select.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\slt_as_ios7_cancel_bt.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\slt_as_ios7_cancel_bt.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\play_inable.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\play_inable.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\stopplay.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\stopplay.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\shap_progress.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\shap_progress.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\shape_point_white.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\shape_point_white.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\pre_selector.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\pre_selector.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\save_time_press.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\save_time_press.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\server_input.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\server_input.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\use.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\use.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\longding_bg.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\longding_bg.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\play.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\shapebgdia_choosefile.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\shapebgdia_choosefile.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\untitlaaaed.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\untitlaaaed.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\displaymode_fullscreen_down.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\displaymode_fullscreen_down.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\slt_as_ios7_other_bt_top.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\slt_as_ios7_other_bt_top.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\dcloud_dialog_shape.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\dcloud_dialog_shape.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\image_pick_title_sel.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\image_pick_title_sel.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\my_progress_bar.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\my_progress_bar.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\wap_next.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\wap_next.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\ic_media_pause.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\ic_media_pause.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\tb_icon_emptydataset.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\tb_icon_emptydataset.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\wap_prev_unable.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\wap_prev_unable.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\next_selector.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\next_selector.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\save_endtime_press.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\save_endtime_press.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\ic_launcher.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\slt_as_ios7_other_bt_bottom.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\slt_as_ios7_other_bt_bottom.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\iv_recordstart.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\iv_recordstart.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\slt_as_ios7_other_bt_title.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\slt_as_ios7_other_bt_title.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\play_select.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\play_select.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\record_inable.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\record_inable.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\imgbg.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\imgbg.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\slt_as_ios7_other_bt_middle.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\slt_as_ios7_other_bt_middle.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\shap_start.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\shap_start.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\save_starttime_press.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\save_starttime_press.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\reset.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\reset.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\shap_end.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\shap_end.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\play1.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\play1.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\stoprecord.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\stoprecord.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\image_pick_no_media.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\image_pick_no_media.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\stop.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\stop.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\save_starttime.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\save_starttime.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\wap_next_unable.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\wap_next_unable.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\cancel.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\cancel.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\record.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\record.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\media_pre_loading.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\media_pre_loading.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\dcloud_dialog_shape_bg.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\dcloud_dialog_shape_bg.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\window_play.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\window_play.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\bar_color.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\bar_color.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\recordaudiobg.jpg",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\recordaudiobg.jpg"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\iv_recordsave.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\iv_recordsave.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\save_time.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\save_time.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\slt_as_ios7_other_bt_single.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\slt_as_ios7_other_bt_single.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\displaymode_fullscreen.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\displaymode_fullscreen.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\image_pick_mask.9.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\image_pick_mask.9.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\recordimage.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\recordimage.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\displaymode_fullscreen_normal.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\displaymode_fullscreen_normal.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\save_endtime.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\save_endtime.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\iv_recordend.xml",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\iv_recordend.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\pause.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\pause.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\release\\drawable\\record_select.png",
+        "source": "F:\\SDKDemo\\cmtools\\src\\main\\res\\drawable\\record_select.png"
+    }
+]

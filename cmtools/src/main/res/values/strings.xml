@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">记者助手</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">对不起，该设备播放不了本视频</string>
+    <string name="VideoView_error_text_unknown">对不起，该视频无法播放</string>
+    <string name="videoBuffer">视频正在努力缓冲中&#8230;</string>
+    <string name="name">帐号：</string>
+    <string name="videoCannotPlay">对不起该视频无法播放!</string>
+    <string name="setting_url">请输入服务路径：</string>
+    <string name="jump">确定</string>
+    <string name="input_url">路径</string>
+    <string name="reset">复位</string>
+    <string name="record">录制</string>
+    <string name="play">播放</string>
+    <string name="stop">停止</string>
+    <string name="title_activity_play_audio">PlayAudioActivity</string>
+</resources>

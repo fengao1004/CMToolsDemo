@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\push.png",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\push.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\stream.png",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\stream.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\stream_running_progress.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\stream_running_progress.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\snow_white_progress.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\snow_white_progress.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\shape_dialog_from_bottom_background.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\shape_dialog_from_bottom_background.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\snow_black_progress.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\snow_black_progress.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\dcloud_snow_black_progress.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\dcloud_snow_black_progress.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\snow_black.png",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\snow_black.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\dcloud_snow_white_progress.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\dcloud_snow_white_progress.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\stream_running.png",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\stream_running.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\update_progressbar_drawable.xml",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\update_progressbar_drawable.xml"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\snow_white.png",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\snow_white.png"
+    },
+    {
+        "merged": "F:\\SDKDemo\\cmtools\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\start.png",
+        "source": "F:\\SDKDemo\\cmtools\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\start.png"
+    }
+]
