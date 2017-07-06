@@ -17,48 +17,19 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    repositories {
+        flatDir {
+            dirs 'libs'
+        }
+    }
 }
 
 dependencies {
-    compile 'com.android.support:appcompat-v7:23.0.0'
-    compile 'com.google.code.gson:gson:2.3.1'
-    compile 'com.squareup.okhttp:okhttp:2.7.0'
-    compile 'com.commit451:PhotoView:1.2.4'
-    compile 'com.android.support:recyclerview-v7:25.1.1'
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile files('libs/audio.jar')
-    compile files('libs/barcode.jar')
-    compile files('libs/camera.jar')
-    compile files('libs/commons-net-3.0.1.jar')
-    compile files('libs/contacts.jar')
-    compile files('libs/device.jar')
-    compile files('libs/downloader.jar')
-    compile files('libs/file.jar')
-    compile files('libs/fluent-hc-4.2.jar')
-    compile files('libs/gallery.jar')
-    compile files('libs/httpclient-4.2.jar')
-    compile files('libs/httpclient-cache-4.2.jar')
-    compile files('libs/httpcore-4.2.jar')
-    compile files('libs/httpmime-4.2.jar')
-    compile files('libs/invocation.jar')
-    compile files('libs/jackson-all-1.9.0.jar')
-    compile files('libs/json_simple-1.1.jar')
-    compile files('libs/messaging.jar')
-    compile files('libs/nativeObj.jar')
-    compile files('libs/nativeui.jar')
-    compile files('libs/navigatorui.jar')
-    compile files('libs/nineoldandroids-2.4.0.jar')
-    compile files('libs/nopermission.jar')
-    compile files('libs/open_sdk_r5043_lite.jar')
-    compile files('libs/pdr.jar')
-    compile files('libs/sensor.jar')
-    compile files('libs/ui.jar')
-    compile files('libs/universal-image-loader-1.9.0.jar')
-    compile files('libs/uploader.jar')
-    compile files('libs/xhr.jar')
-    compile files('libs/xUtils-2.6.14.jar')
-    compile files('libs/org.json.jar')
-    compile files('libs/dyhsplitmuxerffmpeg.jar')
-    compile 'org.jetbrains:annotations-java5:15.0'
-    compile files('libs/dyhfileuploader.jar')
+//    compile 'com.android.support:recyclerview-v7:25.1.1'
+    compile 'com.android.support:design:23.2.1'
+    compile 'com.android.support:percent:23.2.1'
+    compile 'com.commit451:PhotoView:1.2.4'
+    compile 'com.google.code.gson:gson:2.3.1'
+    compile 'com.squareup.okhttp3:okhttp:3.6.0'
 }

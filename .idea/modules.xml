@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SDKDemo.iml" filepath="$PROJECT_DIR$/SDKDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cmtools/cmtools.iml" filepath="$PROJECT_DIR$/cmtools/cmtools.iml" />
       <module fileurl="file://$PROJECT_DIR$/thirdpartylibrary/thirdpartylibrary.iml" filepath="$PROJECT_DIR$/thirdpartylibrary/thirdpartylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uploadlib/uploadlib.iml" filepath="$PROJECT_DIR$/uploadlib/uploadlib.iml" />
     </modules>
   </component>
 </project>
