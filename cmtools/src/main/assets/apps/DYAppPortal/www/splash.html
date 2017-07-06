@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>欢迎页面</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<meta name="format-detection" content="telephone=no">
+		<meta name="renderer" content="webkit">
+		<meta http-equiv="Cache-Control" content="no-siteapp" />
+		<link href="css/mui.css" rel="stylesheet" />
+	</head>
+
+	<body>
+	</body>
+	<script>
+	document.addEventListener("plusready",function(){
+	if ( plus.runtime.arguments != "" ) {
+		try {
+			var aj = JSON.parse( plus.runtime.arguments );
+			window.location.href=aj.url;
+		}catch( e ) {
+			alert("获取参数失败");
+		}
+	}else{
+	alert("获取参数失败");
+	}
+},false);
+	</script>
+</html>

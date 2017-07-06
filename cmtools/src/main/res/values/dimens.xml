@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_detail_ImageView_size">20dp</dimen>
+    <dimen name="viewpager_category_textSize">16sp</dimen>
+    <dimen name="activity_detail_textSize">20sp</dimen>
+    <dimen name="activity_detail_ImageView_layout_width">20dp</dimen>
+    <dimen name="activity_detail_ImageView_layout_height">30dp</dimen>
+</resources>
